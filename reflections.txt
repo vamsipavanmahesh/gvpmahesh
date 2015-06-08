@@ -1,0 +1,1 @@
+Even when you init the repository, does not mean that files are added to it. you have to add them manually
